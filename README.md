@@ -24,4 +24,4 @@ Desenvolvedora focada em **Backend Java**, construindo aplicações robustas, AP
 
 ### 📫 Conecte-se comigo
 
-[![LinkedIn]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaneya-luz-b21a9743a)
